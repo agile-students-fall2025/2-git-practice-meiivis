@@ -13,3 +13,6 @@ What’s also interesting is the broader perspective — the article connects Or
 ### Comment from Ethan Arnold
 
 It's simultaneously awesome and scary that the field has expanded so much that software engineering depends on these massive cloud platforms.
+
+### Ellen's Comment:
+This is an interesting article connecting AI with a larger scope in the world. As a person who would like to pursue my career in finance, I do understand the importance of technolog, and how the tech department has its essential role within a finance corporation. 
