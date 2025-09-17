@@ -12,4 +12,4 @@ What’s also interesting is the broader perspective — the article connects Or
 
 ### Comment from Ethan Arnold
 
-It's simultaneously awesome and scary that the field has expanded so much that software engineering depends on these massive cloud platforms. 
+It's simultaneously awesome and scary that the field has expanded so much that software engineering depends on these massive cloud platforms.
