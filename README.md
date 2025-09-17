@@ -12,7 +12,7 @@ What’s also interesting is the broader perspective — the article connects Or
 
 
 ### Ellen's Comment:
-This is an interesting article connecting AI with a larger scope in the world. As a person who would like to pursue my career in finance, I do understand the importance of technolog, and how the tech department has its essential role within a finance corporation. 
+This is an interesting article, connecting AI with a larger scope in the world. As a person who would like to pursue my career in finance, I do understand the importance of technolog, and how the tech department has its essential role within a finance corporation. 
 
 ### Comment from Ethan Arnold
 
