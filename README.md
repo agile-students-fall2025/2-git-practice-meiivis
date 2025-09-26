@@ -17,3 +17,7 @@ It's simultaneously awesome and scary that the field has expanded so much that s
 ### Comment from Ellen Wong
 
 As a person who wants to pursue a career in finance, I realized how important technology and tech department are in the finance corporations. They have been providing the convenience and accuracy that people can't envision in the past. 
+
+### Comment from Bernard Gharbin
+
+From a software engineering perspective, I see this as proof that the future of innovation relies on access to scalable compute power. It’s not just about writing efficient code anymore, it’s about leveraging platforms that allow ideas to scale globally. 
